@@ -1,5 +1,5 @@
 import React from 'react';
-import { Route, MapPin } from 'lucide-react';
+import { Route } from 'lucide-react';
 
 const ItineraryBuilder = () => {
   return (

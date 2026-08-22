@@ -1,5 +1,5 @@
 import React from 'react';
-import { PlusCircle, Compass } from 'lucide-react';
+import { PlusCircle } from 'lucide-react';
 
 const CreateTrip = () => {
   return (

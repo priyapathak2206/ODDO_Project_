@@ -1,5 +1,5 @@
 import React from 'react';
-import { User, Mail, MapPin, Shield, Sparkles } from 'lucide-react';
+import { User, Mail, MapPin, Sparkles } from 'lucide-react';
 
 const Profile = () => {
   return (

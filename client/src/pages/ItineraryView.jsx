@@ -1,5 +1,5 @@
 import React from 'react';
-import { Calendar, MapPin, Share2 } from 'lucide-react';
+import { Calendar, Share2 } from 'lucide-react';
 
 const ItineraryView = () => {
   return (

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Globe, LogOut, Menu, User, Bell, Sparkles } from 'lucide-react';
+import { Globe, LogOut, Menu, Bell, Sparkles } from 'lucide-react';
 
 const Navbar = ({ onToggleSidebar }) => {
   return (

@@ -1,6 +1,6 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
-import { Share2, Users, MapPin } from 'lucide-react';
+import { Share2, Users } from 'lucide-react';
 
 const SharedTrip = () => {
   const { tripId } = useParams();
